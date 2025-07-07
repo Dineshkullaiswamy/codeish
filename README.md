@@ -1,2 +1,0 @@
-# codeish
-always learn
